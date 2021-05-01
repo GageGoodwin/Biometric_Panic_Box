@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=XGO43ttiWr4
 Files in repo description: 
 enroll/enroll.ino  -- the adafruit code to enroll users onto your arduino for use of the fingerprint scanner
 
-BiometricPanicBox/BiometricPanicBox.ino -- runs on arduino inside box, relays tweets button press messages
+BiometricPanicBox/BiometricPanicBox.ino -- runs on arduino inside box, relays distress signal messages as tweets
 
 Python_Email_Code/tweepy_streamer.py    -- catches tweets meeting a specific criteria, relays tweet in form of email using SMTP
 Python_Email_Code/tweepy_credentials.py -- Twitter API project credentials
