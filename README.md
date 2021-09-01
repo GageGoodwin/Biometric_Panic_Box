@@ -1,13 +1,13 @@
 # Biometric_Panic_Box
-CS362 Biometric Panic Pox Project
+# CS362 Biometric Panic Pox Project
 
-Follow the google doc below for the write up!
+## Follow the google doc below for the write up!
 https://docs.google.com/document/d/1CqpJ3DZOT1RPUYsXs-lYOuN5pGzEKE2jhI6wpRIRNlM/edit?usp=sharing
 
-See the final prototype presentation here 
+## See the final prototype presentation here 
 https://www.youtube.com/watch?v=XGO43ttiWr4
 
-Files in repo description: 
+## Files in repo description: 
 enroll/enroll.ino  -- the adafruit code to enroll users onto your arduino for use of the fingerprint scanner
 
 BiometricPanicBox/BiometricPanicBox.ino -- runs on arduino inside box, relays distress signal messages as tweets
@@ -20,7 +20,7 @@ Biometric_Panic_Box.fzz -- fritzing diagram of the arduino circuit
 sendemail.sh -- The bash script to automate execution of tweepy_streamer.py on startup of raspberry pi  
 
 
-Hardware Overview: 
+## Hardware Overview
 Hardware required 
     1x Arduino Uno
     1x 16x2 LCD Screen
@@ -37,7 +37,7 @@ Hardware required
     Jumper wires - solid core
 
 
-Total Cost Breakdown of Final Implementation
+## Total Cost Breakdown of Final Implementation
 Arduino Starter Kit:       $40.13
 ESP 8266:                  $10.99
 Jumper Cables:             $5.41
