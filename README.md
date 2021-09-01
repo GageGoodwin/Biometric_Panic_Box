@@ -1,4 +1,3 @@
-# Biometric_Panic_Box
 # CS362 Biometric Panic Pox Project
 
 ## Follow the google doc below for the write up!
