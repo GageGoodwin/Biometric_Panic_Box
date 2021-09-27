@@ -3,6 +3,10 @@
 ## Follow the google doc below for the write up!
 https://docs.google.com/document/d/1CqpJ3DZOT1RPUYsXs-lYOuN5pGzEKE2jhI6wpRIRNlM/edit?usp=sharing
 
+## Fritzing Diagram  
+https://drive.google.com/file/d/1bR8FQA8x-4r1Xh5NvOd1ZHFXg3vDMiYy/view?usp=sharing
+
+
 ## See the final prototype presentation here 
 https://www.youtube.com/watch?v=XGO43ttiWr4
 
