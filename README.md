@@ -20,29 +20,29 @@ sendemail.sh -- The bash script to automate execution of tweepy_streamer.py on s
 
 
 ## Hardware Overview
-Hardware required 
-    1x Arduino Uno
-    1x 16x2 LCD Screen
-    3x Arcade Style Buttons
-    1x breadboard
-    1x Fingerprint scanner
-    1x ESP8266 Wifi module
-    1x Potentiometer
-    1x Green LED
-    3x 10k Ohm Resistor
-    2x 220 Ohm Resistor
-    1x Raspberry Pi 3 B+
-    1x Box cut to size (any material)
-    Jumper wires - solid core
+Hardware required   
+    1x Arduino Uno  
+    1x 16x2 LCD Screen  
+    3x Arcade Style Buttons  
+    1x breadboard  
+    1x Fingerprint scanner  
+    1x ESP8266 Wifi module  
+    1x Potentiometer  
+    1x Green LED  
+    3x 10k Ohm Resistor  
+    2x 220 Ohm Resistor  
+    1x Raspberry Pi 3 B+  
+    1x Box cut to size (any material)  
+    Jumper wires - solid core  
 
 
-## Total Cost Breakdown of Final Implementation
-Arduino Starter Kit:       $40.13
-ESP 8266:                  $10.99
-Jumper Cables:             $5.41
-Buttons:                   $10.84
-Fingerprint Scanner:       $20.48
-Wood + Glue:               $10.00
-Raspberry Pi 3 B+:         $35.00
+## Total Cost Breakdown of Final Implementation  
+Arduino Starter Kit:       $40.13  
+ESP 8266:                  $10.99  
+Jumper Cables:             $5.41  
+Buttons:                   $10.84  
+Fingerprint Scanner:       $20.48  
+Wood + Glue:               $10.00  
+Raspberry Pi 3 B+:         $35.00  
 
-Total cost of final implementation = $132.85
+Total cost of final implementation = $132.85  
